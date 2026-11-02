@@ -25,7 +25,7 @@ Algunos son **datos de salud**. Solo se guardan porque das tu consentimiento al 
 
 - En **Supabase**, en un servidor de la Unión Europea (Irlanda). Cada persona solo puede leer y escribir lo suyo.
 - Algunas cosas solo viven en tu móvil (cambios de la rutina, casillas marcadas, comidas guardadas, tu bici).
-- Los mapas de las salidas se cargan de OpenStreetMap, y el buscador de alimentos consulta Open Food Facts. A ellos solo llega lo que buscas o la zona del mapa, nunca tu nombre ni tu correo.
+- Los mapas de las salidas se cargan de Google Maps, y el buscador de alimentos consulta Open Food Facts. A Google le llega la zona del mapa que se ve (con tu recorrido dibujado encima en el propio móvil) y a Open Food Facts lo que buscas; nunca tu nombre, tu correo ni tus datos de salud. Google trata esos datos según su propia política de privacidad.
 
 ## Lo que Bidea no hace
 

@@ -7,7 +7,7 @@ App para Android que te propone qué hacer cada día, se adapta a cómo te encue
 
 ### [⬇ Descargar Bidea para Android (APK)](https://github.com/Marke12/bidea-releases/releases/latest/download/Bidea.apk)
 
-[📘 Guía completa en PDF](https://github.com/Marke12/bidea-releases/raw/main/Bidea-guia.pdf) · [Todas las versiones](https://github.com/Marke12/bidea-releases/releases) · Gratis · Sin anuncios · Solo por invitación
+[📘 Guía completa en PDF](https://github.com/Marke12/bidea-releases/raw/main/Bidea-guia.pdf) · [Todas las versiones](https://github.com/Marke12/bidea-releases/releases) · Gratis · Sin anuncios · Registro abierto
 
 </div>
 
@@ -19,11 +19,11 @@ App para Android que te propone qué hacer cada día, se adapta a cómo te encue
 2. Toca el archivo `Bidea.apk` al terminar la descarga.
 3. Si Android lo pide, permite **instalar apps de esta fuente** y vuelve atrás.
 4. Pulsa **Instalar**. Si Play Protect avisa, pulsa **Más detalles → Instalar de todas formas** (Bidea no está en Google Play).
-5. Entra con el correo con el que te invitaron: te llega un **código de un solo uso**, sin contraseñas.
+5. Pulsa **Crear una cuenta nueva**: correo y contraseña. Te llega un **código de verificación** al correo; escríbelo y listo.
 
 Las actualizaciones llegan solas: al abrir Bidea sale **Actualizar** cuando hay versión nueva.
 
-> Requisitos: Android 8.0 o superior. Bidea funciona solo por invitación y para mayores de 18 años.
+> Requisitos: Android 8.0 o superior y tener 18 años o más.
 
 ## Qué hace
 
@@ -70,6 +70,7 @@ Claude puede proponer los minutos de la semana, subir o bajar la fuerza y dejart
 ## Privacidad y salud
 
 - Datos en la Unión Europea (Irlanda). Cada persona solo ve lo suyo.
+- Llévate tus datos (Exportar a Excel) o bórralo todo (Mi cuenta → Borrar mi cuenta) cuando quieras. [Política de privacidad completa](PRIVACIDAD.md).
 - Sin anuncios, sin venta de datos y sin inteligencia artificial dentro de la app.
 - Las reglas de entrenamiento y comida son prudentes y generales, pendientes de revisión profesional. **No sustituyen a tu médico.**
 

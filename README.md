@@ -2,7 +2,7 @@
 
 # Bidea
 
-**Bici, fuerza y comida, sin agobios.**
+**Bici, carrera, monte, fuerza y comida, sin agobios.**
 App para Android que te propone qué hacer cada día, se adapta a cómo te encuentras y guarda tus salidas, tu comida y tu progreso.
 
 ### [⬇ Descargar Bidea para Android (APK)](https://github.com/Marke12/bidea-releases/releases/latest/download/Bidea.apk)
@@ -29,10 +29,10 @@ Las actualizaciones llegan solas: al abrir Bidea sale **Actualizar** cuando hay 
 
 | | |
 |---|---|
-| **Hoy** | Tu sesión del día (bici suave, cadencia, intervalos, salida larga, fuerza, paseo o descanso) y un semáforo según cómo estás: verde, ámbar o rojo. |
-| **Plan que se adapta** | Empieza con lo que ya haces, sube como mucho un 10 % por semana, semana de descarga cada cuatro y se suaviza solo si llevas días flojos. |
+| **Hoy** | Tu sesión del día (bici, carrera, ruta de monte, fuerza, paseo o descanso; puedes mezclar deportes) y un semáforo según cómo estás: verde, ámbar o rojo. |
+| **Plan que se adapta** | Empieza con lo que ya haces, sube como mucho un 10 % por semana, semana de descarga cada cuatro y se suaviza solo si llevas días flojos. Para empezar a correr, alterna andar y correr. |
 | **Rutinas de fuerza** | Circuito en casa con explicación de cada ejercicio. Marca cada uno al terminarlo: con todos marcados, la rutina cuenta como hecha en la semana. Cambia ejercicios (unos 90 para elegir) y sube o baja tiempos y repeticiones. |
-| **Salidas** | Sube archivos **FIT o GPX** o compártelos desde Garmin Connect, iGPSPORT, Wahoo o MyWhoosh. Mapa de cada salida en la lista y ficha con **mapa de OpenStreetMap**, gráficas, zonas de pulso, subidas y parciales. |
+| **Salidas** | Bici, carreras (con su ritmo), caminatas y monte. Sube archivos **FIT o GPX** o compártelos desde Garmin Connect, iGPSPORT, Wahoo o MyWhoosh. Mapa de cada salida en la lista y ficha con **mapa de OpenStreetMap**, gráficas, zonas de pulso, subidas y parciales. |
 | **Mi bici** | Kilómetros de cada pieza (cadena, cubiertas, pastillas…) con aviso de revisión. |
 | **Comida** | Escáner de código de barras, buscador (Open Food Facts y 170 platos caseros), comidas guardadas, copiar lo de ayer y equilibrio de la semana. Funciona sin conexión. |
 | **Conectores** | Pasos, sueño, pulso, salidas, peso y VO2 máx desde Health Connect. Puntuación de sueño importando el zip de Garmin. |

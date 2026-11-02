@@ -7,7 +7,7 @@ App para Android que te propone qué hacer cada día, se adapta a cómo te encue
 
 ### [⬇ Descargar Bidea para Android (APK)](https://github.com/Marke12/bidea-releases/releases/latest/download/Bidea.apk)
 
-[📘 Guía completa en PDF](https://github.com/Marke12/bidea-releases/raw/main/Bidea-guia.pdf) · [Todas las versiones](https://github.com/Marke12/bidea-releases/releases) · Gratis · Sin anuncios · Registro abierto
+[📘 Guía completa en PDF](https://github.com/Marke12/bidea-releases/raw/main/Bidea-guia.pdf) · [Todas las versiones](https://github.com/Marke12/bidea-releases/releases) · [☕ Apoyar con 1 €](https://ko-fi.com/bidea) · Gratis · Sin anuncios · Registro abierto
 
 </div>
 
@@ -66,6 +66,12 @@ Incluye, paso a paso:
 4. En Bidea, pulsa **2. Pegar la respuesta de Claude**.
 
 Claude puede proponer los minutos de la semana, subir o bajar la fuerza y dejarte una nota. Las reglas de Bidea mandan: nunca más del 10 % de subida, nunca más del 30 % de bajada y la fuerza cambia como mucho un nivel.
+
+## Apoyar el proyecto
+
+Bidea es gratis, sin anuncios, y lo seguirá siendo. Si te ayuda y quieres echar una mano con el servidor, puedes invitar a un café de 1 €. Es totalmente opcional: la app es igual de completa sin aportar.
+
+### [☕ Apoyar Bidea en Ko-fi](https://ko-fi.com/bidea)
 
 ## Privacidad y salud
 

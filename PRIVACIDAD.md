@@ -6,7 +6,7 @@ Bidea es una app gratuita, sin anuncios, hecha por una persona particular. Este 
 
 ## Quién es responsable
 
-Bidea la mantiene a título personal el titular del repositorio [github.com/Marke12/bidea-releases](https://github.com/Marke12/bidea-releases). Para cualquier duda sobre tus datos, abre una [incidencia en GitHub](https://github.com/Marke12/bidea-releases/issues) (no escribas datos personales en ella; te contestaremos para seguir en privado).
+Bidea la mantiene a título personal el titular del repositorio [github.com/Marke12/bidea-releases](https://github.com/Marke12/bidea-releases). Para cualquier duda sobre tus datos, o para pedir que los veamos, corrijamos o borremos, escribe a **[gaaapla7@gmail.com](mailto:gaaapla7@gmail.com)**.
 
 ## Qué datos guarda y para qué
 
@@ -37,7 +37,7 @@ Algunos son **datos de salud**. Solo se guardan porque das tu consentimiento al 
 ## Tus derechos
 
 - **Ver y llevarte tus datos:** Mi cuenta → Exportar a Excel.
-- **Corregirlos:** desde la propia app.
+- **Corregirlos:** desde la propia app, o escribiendo a gaaapla7@gmail.com.
 - **Borrarlo todo:** Mi cuenta → **Borrar mi cuenta**. Se borran al momento tu cuenta y todos tus datos del servidor y del móvil.
 - Si crees que no se respetan tus derechos, puedes reclamar ante la Agencia Española de Protección de Datos (aepd.es).
 

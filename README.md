@@ -44,7 +44,7 @@ Las actualizaciones llegan solas: al abrir Bidea sale **Actualizar** cuando hay 
 
 ## Documentación
 
-📘 **[Descargar la guía completa (PDF, 11 páginas)](https://github.com/Marke12/bidea-releases/raw/main/Bidea-guia.pdf)**
+📘 **[Descargar la guía completa (PDF, 12 páginas)](https://github.com/Marke12/bidea-releases/raw/main/Bidea-guia.pdf)**
 
 Incluye, paso a paso:
 

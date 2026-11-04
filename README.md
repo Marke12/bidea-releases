@@ -30,9 +30,9 @@ Las actualizaciones llegan solas: al abrir Bidea sale **Actualizar** cuando hay 
 | | |
 |---|---|
 | **Hoy** | Tu sesión del día (bici, carrera, ruta de monte, fuerza, paseo o descanso; puedes mezclar deportes) y un semáforo según cómo estás: verde, ámbar o rojo. |
-| **Plan que se adapta** | Empieza con lo que ya haces, sube como mucho un 10 % por semana, semana de descarga cada cuatro y se suaviza solo si llevas días flojos. Para empezar a correr, alterna andar y correr. |
+| **Plan que se adapta** | Empieza con lo que ya haces, sube como mucho un 10 % por semana, semana de descarga cada cuatro y se suaviza solo si llevas días flojos. Para empezar a correr, alterna andar y correr. Sin salidas guardadas, te pregunta cuánto entrenas para el primer plan. |
 | **Rutinas de fuerza** | Circuito en casa con explicación de cada ejercicio. Marca cada uno al terminarlo: con todos marcados, la rutina cuenta como hecha en la semana. Cambia ejercicios (unos 90 para elegir) y sube o baja tiempos y repeticiones. |
-| **Salidas** | Bici, carreras (con su ritmo), caminatas y monte. Sube archivos **FIT o GPX** o compártelos desde Garmin Connect, iGPSPORT, Wahoo o MyWhoosh. Mapa de cada salida en la lista y ficha con **mapa de Google**, gráficas, zonas de pulso, subidas y parciales. |
+| **Salidas** | Bici, carreras (con su ritmo), caminatas y monte. Sube archivos **FIT o GPX**, compártelos desde Garmin Connect, iGPSPORT, Wahoo o MyWhoosh, o **apúntalas a mano** si no tienes reloj. Mapa de cada salida en la lista y ficha con **mapa de Google**, gráficas, zonas de pulso, subidas y parciales. |
 | **Mi bici y mis zapatillas** | Kilómetros de cada pieza de la bici (cadena, cubiertas, pastillas…) y de cada par de zapatillas, con aviso de revisión o cambio. |
 | **Comida** | Escáner de código de barras, buscador (Open Food Facts y 170 platos caseros), comidas guardadas, copiar lo de ayer y equilibrio de la semana. Funciona sin conexión. |
 | **Conectores** | Pasos, sueño, pulso, salidas, peso y VO2 máx desde Health Connect. Puntuación de sueño importando el zip de Garmin. |
@@ -41,6 +41,7 @@ Las actualizaciones llegan solas: al abrir Bidea sale **Actualizar** cuando hay 
 | **Familia** | Comparte solo tu resumen de salidas de 7 días con quien quieras. |
 | **Revisión con Claude** | Copia tus datos, pídele a Claude (con tu cuenta, gratis) que revise la semana y pega su respuesta: Bidea solo aplica lo que está dentro de sus límites de seguridad. |
 | **Exportar** | Excel con todos tus datos y hoja semanal en PDF para imprimir. |
+| **Sugerencias y fallos** | En **Más**, un botón que abre tu correo con el mensaje a medio escribir (con la versión y el modelo de tu móvil). Lo lees, lo cambias y lo envías tú. |
 
 ## Más información
 

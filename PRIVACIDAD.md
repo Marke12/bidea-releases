@@ -25,7 +25,7 @@ Algunos son **datos de salud**. Solo se guardan porque das tu consentimiento al 
 ## Dónde se guardan
 
 - En **Supabase**, en un servidor de la Unión Europea (Irlanda). Cada persona solo puede leer y escribir lo suyo.
-- Algunas cosas solo viven en tu móvil (cambios de la rutina, casillas marcadas, comidas guardadas, tu bici, y el tipo y la foto de cada comida). Las fotos de comida se guardan reducidas y sin los datos del archivo original (como la ubicación), nunca se suben al servidor y se borran al quitar esa comida, al borrar tu cuenta o al desinstalar Bidea.
+- Algunas cosas solo viven en tu móvil (cambios de la rutina, casillas marcadas, comidas guardadas, tu bici).
 - Los mapas de las salidas se cargan de Google Maps, y el buscador de alimentos consulta Open Food Facts. A Google le llega la zona del mapa que se ve (con tu recorrido dibujado encima en el propio móvil) y a Open Food Facts lo que buscas; nunca tu nombre, tu correo ni tus datos de salud. Google trata esos datos según su propia política de privacidad.
 
 ## Lo que Bidea no hace

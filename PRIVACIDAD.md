@@ -18,6 +18,7 @@ Bidea la mantiene a título personal el titular del repositorio [github.com/Mark
 | Salidas en bici (archivos FIT/GPX, recorrido, pulso, potencia) | Emparejarlas con el plan y enseñarte tu progreso. |
 | Comida, peso, cintura y VO2 máx | Tus objetivos de comida y la tendencia del peso. |
 | Datos del reloj (pasos, sueño, pulso en reposo) si lo conectas | Rellenar lo anterior sin que tengas que apuntarlo. |
+| **Garmin Connect** (función en preparación, todavía no disponible en la app), solo si lo conectas: tus actividades terminadas (fecha, tipo, tiempo, distancia, desnivel, pulso, potencia y cadencia, datos a lo largo de la salida y recorrido) y la clave que Garmin da a Bidea para recibirlas | Traer tus salidas a Bidea para tu plan, tu bici y tus zapatillas. Bidea solo **recibe** esos datos (nunca escribe en Garmin) y solo tú los ves. |
 | **Strava**, solo si lo conectas: fecha, tipo, nombre, tiempo, distancia, desnivel, pulso, potencia y cadencia medios, datos a lo largo de la salida y recorrido de tus actividades; y las claves que Strava da a Bidea para leerlas | Traer tus salidas a Bidea para tu plan, tu bici y tus zapatillas. Bidea solo **lee** (nunca escribe en Strava) y solo tú ves esos datos. |
 
 Algunos son **datos de salud**. Solo se guardan porque das tu consentimiento al crear la cuenta, y puedes retirarlo en cualquier momento borrando la cuenta.
@@ -25,7 +26,7 @@ Algunos son **datos de salud**. Solo se guardan porque das tu consentimiento al 
 ## Dónde se guardan
 
 - En **Supabase**, en un servidor de la Unión Europea (Irlanda). Cada persona solo puede leer y escribir lo suyo.
-- Algunas cosas solo viven en tu móvil (cambios de la rutina, casillas marcadas, comidas guardadas, tu bici).
+- Algunas cosas solo viven en tu móvil (cambios de la rutina, casillas marcadas, comidas guardadas, tu bici, y el tipo y la foto de cada comida). Las fotos de comida se guardan reducidas y sin los datos del archivo original (como la ubicación), nunca se suben al servidor y se borran al quitar esa comida, al borrar tu cuenta o al desinstalar Bidea.
 - Los mapas de las salidas se cargan de Google Maps, y el buscador de alimentos consulta Open Food Facts. A Google le llega la zona del mapa que se ve (con tu recorrido dibujado encima en el propio móvil) y a Open Food Facts lo que buscas; nunca tu nombre, tu correo ni tus datos de salud. Google trata esos datos según su propia política de privacidad.
 
 ## Lo que Bidea no hace
@@ -35,12 +36,13 @@ Algunos son **datos de salud**. Solo se guardan porque das tu consentimiento al 
 - No usa inteligencia artificial. La revisión con Claude la haces tú, desde tu propia cuenta de Claude, y solo con los datos que tú decides pegar.
 - Familia: solo comparte tu resumen de salidas de 7 días con los correos que tú añadas, y nunca peso, comida ni salud. Las salidas que vienen de Strava no se incluyen.
 - Strava: tus datos de Strava no se comparten con nadie, no se venden y no se usan para publicidad ni para entrenar modelos de inteligencia artificial. Puedes desconectarlo en Mi cuenta → Conectores: Bidea avisa a Strava, borra las salidas que vinieron de Strava y las claves guardadas. También puedes revocar el permiso desde tu cuenta de Strava. Borrar tu cuenta de Bidea elimina todo.
+- Garmin Connect (cuando esté disponible): los datos que llegan de Garmin se guardan en tu cuenta de Bidea, en Supabase (Unión Europea, Irlanda), que es el único tercero que los guarda o procesa, como proveedor de alojamiento. No se comparten con nadie más, no se venden, no se usan para publicidad y **nunca se usan para entrenar, evaluar ni mejorar modelos de inteligencia artificial**; Bidea no usa IA con ellos. Al desconectar Garmin, Bidea deja de recibirlos y borra las actividades que vinieron de Garmin y las claves guardadas; también puedes retirar el permiso desde tu cuenta de Garmin Connect. Puedes ver y exportar esos datos (Mi cuenta → Exportar a Excel) y borrarlos todos con **Borrar mi cuenta**.
 
 ## Tus derechos
 
 - **Ver y llevarte tus datos:** Mi cuenta → Exportar a Excel.
 - **Corregirlos:** desde la propia app, o escribiendo a gaaapla7@gmail.com.
-- **Borrarlo todo:** Mi cuenta → **Borrar mi cuenta**. Se borran al momento tu cuenta y todos tus datos del servidor y del móvil (incluidos los de Strava).
+- **Borrarlo todo:** Mi cuenta → **Borrar mi cuenta**. Se borran al momento tu cuenta y todos tus datos del servidor y del móvil (incluidos los de Strava y, cuando exista, los de Garmin).
 - Si crees que no se respetan tus derechos, puedes reclamar ante la Agencia Española de Protección de Datos (aepd.es).
 
 ## Edad

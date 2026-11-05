@@ -34,7 +34,7 @@ Las actualizaciones llegan solas: al abrir Bidea sale **Actualizar** cuando hay 
 | **Rutinas de fuerza** | Circuito en casa con explicación de cada ejercicio. Marca cada uno al terminarlo: con todos marcados, la rutina cuenta como hecha en la semana. Cambia ejercicios (unos 90 para elegir) y sube o baja tiempos y repeticiones. |
 | **Salidas** | Bici, carreras (con su ritmo), caminatas y monte. Sube archivos **FIT o GPX**, compártelos desde Garmin Connect, iGPSPORT, Wahoo o MyWhoosh, **conecta Strava**, o **apúntalas a mano** si no tienes reloj. Mapa de cada salida en la lista y ficha con **mapa de Google**, gráficas, zonas de pulso, subidas y parciales. |
 | **Mi bici y mis zapatillas** | Kilómetros de cada pieza de la bici (cadena, cubiertas, pastillas…) y de cada par de zapatillas, con aviso de revisión o cambio. |
-| **Comida** | Escáner de código de barras, buscador (Open Food Facts y más de 170 platos caseros), comidas guardadas, copiar lo de ayer y equilibrio de la semana. Funciona sin conexión. |
+| **Comida** | Escáner de código de barras, buscador (datos de Open Food Facts y más de 170 platos caseros), comidas guardadas, copiar lo de ayer y equilibrio de la semana. **Calendario** con lo comido cada día, comidas opcionales y fotos que se quedan en tu móvil. Funciona sin conexión. |
 | **Conectores** | Pasos, sueño, pulso, salidas, peso y VO2 máx desde Health Connect. **Strava** (opcional): trae tus salidas a Salidas, con mapa y gráficas. Puntuación de sueño importando el zip de Garmin. |
 | **Progreso** | Tendencia del peso, VO2 máx, logros, rachas y mejores marcas. |
 | **Biblioteca** | Calendario de cada mes, medias, totales y gráficas de evolución. |

@@ -34,7 +34,7 @@ No hay app en la App Store: en iPhone, Bidea es una **web que se abre como una a
 3. Elige **Añadir a pantalla de inicio** (desliza el menú hacia arriba si no aparece) y pulsa **Añadir**.
 4. Ábrela desde tu pantalla de inicio y entra con tu correo y contraseña, o crea la cuenta.
 
-Tiene **Hoy, Salidas, Comida, Progreso y Más** (Biblioteca, Mis bicis, Mis zapatillas, Familia y Mi cuenta). En Salidas puedes subir archivos **GPX o FIT**, y cada salida tiene su mapa (de OpenStreetMap). En Comida puedes **escanear el código de barras** con la cámara y buscar productos envasados. En Mi cuenta puedes **exportar tus datos a Excel** y activar el **recordatorio diario** (en el iPhone solo funciona con Bidea añadida a la pantalla de inicio, iOS 16.4 o posterior). **Todavía no tiene**: rutinas de fuerza con ejercicios ni fotos de comida, ni conectores de reloj (Strava, Garmin y Health Connect solo existen en Android).
+Tiene **Hoy** (con la rutina de fuerza: marcar ejercicios, cambiarlos y ajustar repeticiones), **Salidas, Comida, Progreso y Más** (Biblioteca, Mis bicis, Mis zapatillas, Familia y Mi cuenta). En Salidas puedes subir archivos **GPX o FIT**, y cada salida tiene su mapa (de OpenStreetMap). En Comida puedes **escanear el código de barras** con la cámara y buscar productos envasados, y añadir una **foto** a cada comida (se queda solo en tu iPhone). En Mi cuenta puedes **exportar tus datos a Excel** y activar el **recordatorio diario** (en el iPhone solo funciona con Bidea añadida a la pantalla de inicio, iOS 16.4 o posterior). **Todavía no tiene** los conectores de reloj (Strava, Garmin y Health Connect solo existen en Android).
 
 ## Qué hace
 

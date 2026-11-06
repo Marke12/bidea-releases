@@ -25,6 +25,17 @@ Las actualizaciones llegan solas: al abrir Bidea sale **Actualizar** cuando hay 
 
 > Requisitos: Android 8.0 o superior y tener 18 años o más.
 
+## Usar Bidea en iPhone
+
+No hay app en la App Store: en iPhone, Bidea es una **web que se abre como una app**, con la misma cuenta que en Android.
+
+1. Abre **[bidea.pages.dev/app](https://bidea.pages.dev/app/)** con **Safari** (con otros navegadores no sale la opción del paso 3).
+2. Toca **Compartir**: el cuadrado con la flecha hacia arriba, en la barra de abajo. Si no lo ves, toca **···**.
+3. Elige **Añadir a pantalla de inicio** (desliza el menú hacia arriba si no aparece) y pulsa **Añadir**.
+4. Ábrela desde tu pantalla de inicio y entra con tu correo y contraseña, o crea la cuenta.
+
+Tiene **Hoy, Salidas, Comida, Progreso, Biblioteca, Familia y Mi cuenta**. En Salidas puedes subir archivos **GPX o FIT**, y cada salida tiene su mapa (de OpenStreetMap). **Todavía no tiene**: rutinas de fuerza con ejercicios, escáner de código de barras ni búsqueda de productos envasados, fotos ni calendario de comidas, ni conectores de reloj (Strava, Garmin y Health Connect solo existen en Android).
+
 ## Qué hace
 
 | | |
@@ -46,7 +57,8 @@ Las actualizaciones llegan solas: al abrir Bidea sale **Actualizar** cuando hay 
 ## Más información
 
 - 🌐 [Web de Bidea](https://bidea.pages.dev): qué hace, capturas, vídeo corto y cómo instalarla.
-- 🍎 ¿Tienes iPhone? Todavía no hay versión. [Apúntate en la lista de espera](https://bidea.pages.dev/#iphone) y nos ayudas a decidir si la hacemos.
+- 🍎 ¿Tienes iPhone? Ya puedes usar Bidea desde Safari: [cómo ponerla en tu pantalla de inicio](#usar-bidea-en-iphone).
+- 📣 Novedades en [Instagram](https://www.instagram.com/bideapp/) y [TikTok](https://www.tiktok.com/@bideaapp).
 - 📘 [Guía completa en PDF](https://github.com/Marke12/bidea-releases/raw/main/Bidea-guia.pdf): cada pantalla paso a paso, la revisión con Claude y problemas frecuentes.
 - 🔒 [Cómo tratamos tus datos](PRIVACIDAD.md): datos en la Unión Europea, sin venta de datos ni inteligencia artificial dentro de la app. Contacto: gaaapla7@gmail.com.
 - ☕ Bidea es gratis y lo seguirá siendo. Si quieres ayudar con el servidor, puedes aportar 1 € en [Ko-fi](https://ko-fi.com/bidea); es opcional.

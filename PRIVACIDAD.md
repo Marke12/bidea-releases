@@ -1,6 +1,6 @@
 # Cómo trata Bidea tus datos
 
-_Última actualización: 6 de noviembre de 2026 (versión 0.61 y versión web para iPhone)_
+_Última actualización: 6 de noviembre de 2026 (versión 0.62 y versión web para iPhone)_
 
 Bidea es una app gratuita, sin anuncios, hecha por una persona particular. Este texto explica en lenguaje sencillo qué datos guarda, para qué y cómo borrarlos.
 
@@ -26,7 +26,7 @@ Algunos son **datos de salud**. Solo se guardan porque das tu consentimiento al 
 ## Dónde se guardan
 
 - En **Supabase**, en un servidor de la Unión Europea (Irlanda). Cada persona solo puede leer y escribir lo suyo.
-- Algunas cosas solo viven en tu móvil (cambios de la rutina, casillas marcadas, comidas guardadas, tu bici, y el tipo y la foto de cada comida). Las fotos de comida se guardan reducidas y sin los datos del archivo original (como la ubicación), nunca se suben al servidor y se borran al quitar esa comida, al borrar tu cuenta o al desinstalar Bidea.
+- Algunas cosas se guardan en tu móvil y además se copian a tu cuenta (cambios de la rutina, casillas marcadas, comidas guardadas, tus bicis, tus zapatillas y los ajustes), para que no se pierdan al reinstalar o cambiar de móvil. El tipo y la foto de cada comida solo viven en tu móvil. Las fotos de comida se guardan reducidas y sin los datos del archivo original (como la ubicación), nunca se suben al servidor y se borran al quitar esa comida, al borrar tu cuenta o al desinstalar Bidea.
 - Los mapas de las salidas se cargan de Google Maps, y el buscador de alimentos consulta Open Food Facts. A Google le llega la zona del mapa que se ve (con tu recorrido dibujado encima en el propio móvil) y a Open Food Facts lo que buscas; nunca tu nombre, tu correo ni tus datos de salud. Google trata esos datos según su propia política de privacidad.
 
 ## La versión web para iPhone
@@ -35,8 +35,10 @@ En iPhone, Bidea se usa desde el navegador en [bidea.pages.dev/app](https://bide
 
 - Los archivos GPX o FIT que eliges se leen **en tu iPhone**; solo se sube el resumen de la salida (fecha, tipo, tiempo, distancia, desnivel, pulso y el recorrido).
 - Para enseñarte el mapa, tu navegador pide los trozos de mapa a **OpenStreetMap** (servidores de la Fundación OpenStreetMap). Reciben tu dirección IP y qué trozos de mapa pides, es decir, la zona aproximada de la salida, pero no la forma del recorrido, que se dibuja en tu iPhone. No reciben tu nombre ni tu correo. En esta versión no se usa Google Maps. Si el mapa no carga, se dibuja el recorrido sin mapa.
-- La web guarda en tu iPhone solo lo necesario para funcionar: tu sesión, el tema claro u oscuro y algunas preferencias sencillas. No usa cookies de publicidad ni de seguimiento.
-- Conectores (Strava, Garmin, Health Connect), escáner de código de barras y fotos de comida no existen en la versión web.
+- La web guarda en tu iPhone solo lo necesario para funcionar: tu sesión, el tema claro u oscuro, la copia de tus bicis y zapatillas, la hora del recordatorio y algunas preferencias sencillas. No usa cookies de publicidad ni de seguimiento.
+- **Escáner de código de barras:** usa la cámara del iPhone solo mientras lo tienes abierto, para leer el código. La imagen se procesa en tu iPhone: no se guarda ni se envía a ningún sitio. A Open Food Facts solo le llega el número del código (o el texto que buscas) y tu dirección IP. El permiso de cámara lo concedes tú y puedes quitarlo en Ajustes del iPhone.
+- **Recordatorio diario (opcional):** si lo activas, en Supabase se guardan la dirección del servicio de avisos de tu dispositivo (que Apple te asigna) con sus claves de cifrado, la hora que eliges y tu zona horaria. Solo sirven para mandarte un mensaje de ánimo a esa hora; el mensaje es el mismo para todo el mundo y no lleva datos tuyos. El aviso viaja por el servicio de notificaciones de Apple, que ve que Bidea te manda un aviso pero no su contenido de salud, porque no lleva ninguno. Se borra al apagarlo, al cerrar sesión o al borrar la cuenta, y te avisa solo si diste el permiso de notificaciones (puedes quitarlo en Ajustes del iPhone).
+- Conectores (Strava, Garmin, Health Connect) y fotos de comida no existen en la versión web.
 
 La política de la web (visitas, correos) está en [bidea.pages.dev/privacidad](https://bidea.pages.dev/privacidad).
 

@@ -51,6 +51,7 @@ Tiene **Hoy** (con la rutina de fuerza: marcar ejercicios, cambiarlos y ajustar 
 | **Progreso** | Tendencia del peso, VO2 máx, logros, rachas y mejores marcas. |
 | **Biblioteca** | Calendario de cada mes, medias, totales y gráficas de evolución. |
 | **Familia** | Comparte solo tu resumen de salidas de 7 días con quien quieras. |
+| **Nombre de usuario (@)** | Elige tu @ en **Más → Mi cuenta** para que otras personas de Bidea te encuentren (búsqueda por las primeras letras, sin lista pública). Es lo único que ven de ti; tus salidas siguen siendo privadas. Se puede cambiar una vez por semana. |
 | **Revisión con Claude** | Copia tus datos, pídele a Claude (con tu cuenta, gratis) que revise la semana y te dé un **PDF**: impórtalo en Bidea y verás tu semana por días (L M X J V S D). Bidea solo aplica lo que está dentro de sus límites de seguridad y el PDF se borra solo a las 2 semanas. |
 | **Exportar** | Excel con todos tus datos y hoja semanal en PDF para imprimir. |
 | **Sugerencias y fallos** | En **Más**, un botón que abre tu correo con el mensaje a medio escribir (con la versión y el modelo de tu móvil). Lo lees, lo cambias y lo envías tú. |
